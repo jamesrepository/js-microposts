@@ -1,0 +1,19 @@
+.card-title {
+    position: relative;
+    padding-right: 5rem;
+}
+
+.icon-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.icon-container a {
+    padding: 15px;
+    background: #000000;
+}
+.icon-container .edit {
+    margin: 0 1rem;
+}
